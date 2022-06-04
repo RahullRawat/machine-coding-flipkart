@@ -1,0 +1,13 @@
+.filters {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 2rem;
+}
+
+.filters > h2 {
+	font-size: 1.8rem;
+}
+
+.filters > label {
+	font-size: 1.6rem;
+}

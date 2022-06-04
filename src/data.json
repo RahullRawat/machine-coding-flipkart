@@ -1,0 +1,56 @@
+[
+	{
+		"id": "1",
+		"productTitle": "Solid Men Mandarin Collar Dark Green T-Shirt",
+		"img": "https://rukminim1.flixcart.com/image/880/1056/kzn17680/t-shirt/g/k/9/s-ausk0104-ausk-original-imagbhq5dyscgfgn.jpeg?q=50",
+		"price": 299,
+		"gender": "MALE",
+		"brand": "puma",
+		"size": "MEDIUM"
+	},
+	{
+		"id": "2",
+		"productTitle": "Color Block Men Round Neck Black T-Shirt",
+		"img": "https://rukminim1.flixcart.com/image/880/1056/kri3xjk0/t-shirt/a/p/z/xl-qw23ws-thefashionplus-original-imag59v5c88vzzht.jpeg?q=50",
+		"price": 199,
+		"gender": "MALE",
+		"brand": "levis",
+		"size": "EXTRA_LARGE"
+	},
+	{
+		"id": "3",
+		"productTitle": "Regular Fit Women Black Cotton Blend Trousers",
+		"img": "https://rukminim1.flixcart.com/image/880/1056/kfoapow0-0/trouser/4/p/e/28-cl-wm-l0729-addyvero-original-imafw2jwjvhyds6f.jpeg?q=50",
+		"price": 1310,
+		"gender": "FEMALE",
+		"brand": "adidas",
+		"size": "SMALL"
+	},
+	{
+		"id": "4",
+		"productTitle": "Solid Men Dark Blue, Grey Track Pants",
+		"img": "https://rukminim1.flixcart.com/image/880/1056/l0wrafk0/track-pant/l/z/3/xxl-combo-tr1-vebnor-original-imagch2kgwqdegyy.jpeg?q=50",
+		"price": 349,
+		"gender": "MALE",
+		"brand": "puma",
+		"size": "LARGE"
+	},
+	{
+		"id": "5",
+		"productTitle": "Wmn Graphic Pant XV Solid Women Blue Track Pants",
+		"img": "https://rukminim1.flixcart.com/image/880/1056/ktrk13k0/track-pant/h/a/p/s-67040402-puma-original-imag7f5m2pbpgufh.jpeg?q=50",
+		"price": 284,
+		"gender": "FEMALE",
+		"brand": "levis",
+		"size": "MEDIUM"
+	},
+	{
+		"id": "6",
+		"productTitle": "Tapered Men Grey Polyester Blend Trousers",
+		"img": "https://rukminim1.flixcart.com/image/880/1056/l1mh7rk0/trouser/h/s/8/-original-imagd4nazspfrgya.jpeg?q=50",
+		"price": 1031,
+		"gender": "MALE",
+		"brand": "adidas",
+		"size": "SMALL"
+	}
+]

@@ -1,0 +1,31 @@
+.flex {
+	display: flex;
+	margin-top: 2rem;
+}
+
+.flex-2 {
+	display: flex;
+	justify-content: space-between;
+}
+
+.flex > .filter-wrapper {
+	width: 20%;
+}
+
+.product-wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10rem;
+}
+
+.products-container {
+	width: 25rem;
+	height: 25rem;
+	border: 1px solid black;
+}
+
+.products-container > img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
