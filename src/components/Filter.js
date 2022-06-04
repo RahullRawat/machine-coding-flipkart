@@ -15,7 +15,7 @@ export const Filter = () => {
 				<label htmlFor="low-to-high">
 					<input
 						type="radio"
-						name="low-to-high"
+						name="sort"
 						id="low-to-high"
 						value={sortBy === "LOW_TO_HIGH"}
 						onChange={() =>
@@ -28,7 +28,7 @@ export const Filter = () => {
 				<label htmlFor="high-to-low">
 					<input
 						type="radio"
-						name="high-to-low"
+						name="sort"
 						id="high-to-low"
 						value={sortBy === "HIGH_TO_LOW"}
 						onChange={() =>
